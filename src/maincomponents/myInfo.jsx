@@ -10,6 +10,7 @@ import { FaUniversity } from "react-icons/fa";
 import { FaBookmark } from "react-icons/fa";
 import { IoBookmarks } from "react-icons/io5";
 import { FaMapMarker } from "react-icons/fa";
+import { FaBuilding } from "react-icons/fa";
 
 const ModalOverlay = styled.div`
     position: fixed;
@@ -82,6 +83,11 @@ const MyInfo = () => {
                     <CustomRow>
                         <FaMapMarker style={{ color: 'white', fontSize: '1rem' }} />
                         <CustomFont $color='white' $font='1rem'>경기도 용인시 처인구</CustomFont>
+                    </CustomRow>
+
+                    <CustomRow>
+                        <FaBuilding style={{ color: '#F93062', fontSize: '1rem' }} />
+                        <CustomFont $color='#F93062' $font='1rem'>소프트웨어 엔지니어를 희망합니다.</CustomFont>
                     </CustomRow>
                 </CustomColumn>
 

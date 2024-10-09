@@ -20,6 +20,7 @@ const Main = styled.main`
     margin-left: 15rem;
     background-color: black;
     padding-top: 8vh;
+    padding-bottom: 8vh;
 `;
 
 function App() {
