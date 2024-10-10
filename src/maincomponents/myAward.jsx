@@ -13,7 +13,7 @@ const MyAward = () => {
                 수상 경력
             </CustomFont>
 
-            <CustomColumn $width='100%' $alignItems='flex-start' $justifyContent='center' gap='0.5rem'>
+            <CustomColumn $width='100%' $alignItems='flex-start' $justifyContent='center' $gap='0.5rem'>
                 <CustomFont $color='white' $font='1rem'>2023 경기 메타버스 해커톤 결선진출</CustomFont>
                 <CustomFont $color='white' $font='1rem'>2024 멋쟁이사자처럼 동아리 미니프로젝트 대상</CustomFont>
                 <CustomFont $color='white' $font='1rem'>2024 HUFSummer 교내 해커톤 우수상</CustomFont>

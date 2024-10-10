@@ -13,7 +13,7 @@ const MyClub = () => {
                 동아리 활동
             </CustomFont>
 
-            <CustomColumn $width='100%' $alignItems='flex-start' $justifyContent='center' gap='0.5rem'>
+            <CustomColumn $width='100%' $alignItems='flex-start' $justifyContent='center' $gap='0.5rem'>
                 <CustomFont $color='white' $font='1rem'>2022.09-2023.03 GDSC HUFS 4기</CustomFont>
                 <CustomFont $color='white' $font='1rem'>2023.01-2023.12 멋쟁이사자처럼 11기</CustomFont>
                 <CustomFont $color='white' $font='1rem'>2023.03-2023.07 SOPT 32기 안드로이드 파트</CustomFont>

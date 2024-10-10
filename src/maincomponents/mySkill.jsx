@@ -15,7 +15,7 @@ const MySkill = () => {
             </CustomFont>
 
             <CustomRow $width='100%' $alignItems='flex-start' $justifyContent='space-between'>
-                <CustomColumn $width='30%' $gap='1.5rem' $alignItems='flex-start'>
+                <CustomColumn $width='30%' $gap='0.5rem' $alignItems='flex-start'>
                     <CustomFont $color='#F93062' $font='1rem'>JavaScript</CustomFont>
                     <CustomFont $color='#F93062' $font='1rem'>TypeScript</CustomFont>
                     <CustomFont $color='white' $font='1rem'>Dart</CustomFont>
@@ -24,7 +24,7 @@ const MySkill = () => {
                     <CustomFont $color='white' $font='1rem'>Java</CustomFont>
                 </CustomColumn>
 
-                <CustomColumn $width='30%' $gap='1.5rem' $alignItems='flex-start'>
+                <CustomColumn $width='30%' $gap='0.5rem' $alignItems='flex-start'>
                     <CustomFont $color='#F93062' $font='1rem'>React + Vite</CustomFont>
                     <CustomFont $color='#F93062' $font='1rem'>Next.JS</CustomFont>
                     <CustomFont $color='#F93062' $font='1rem'>Flutter</CustomFont>
@@ -33,11 +33,12 @@ const MySkill = () => {
                     <CustomFont $color='white' $font='1rem'>Django</CustomFont>
                 </CustomColumn>
 
-                <CustomColumn $width='30%' $gap='1.5rem' $alignItems='flex-start'>
+                <CustomColumn $width='30%' $gap='0.5rem' $alignItems='flex-start'>
                     <CustomFont $color='white' $font='1rem'>MySQL</CustomFont>
                     <CustomFont $color='white' $font='1rem'>Linux</CustomFont>
                     <CustomFont $color='white' $font='1rem'>Docker</CustomFont>
-                    <CustomFont $color='white' $font='1rem'>AWS</CustomFont>
+                    <CustomFont $color='white' $font='1rem'>NginX</CustomFont>
+                    <CustomFont $color='#F93062' $font='1rem'>AWS</CustomFont>
                 </CustomColumn>
             </CustomRow>
         </CustomColumn>
