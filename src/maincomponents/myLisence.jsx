@@ -15,9 +15,8 @@ const MyLisence = () => {
             </CustomFont>
 
             <CustomColumn $width='100%' $alignItems='flex-start' $gap='0.5rem'>
-                <CustomFont $color='white' $font='1rem'>TOEIC ???점</CustomFont>
-                <CustomFont $color='white' $font='1rem'>FLEX 독일어 ???점</CustomFont>
-                <CustomFont $color='white' $font='1rem'>TOPCIT ???점</CustomFont>
+                <CustomFont $color='white' $font='1rem'>TOEIC</CustomFont>
+                <CustomFont $color='white' $font='1rem'>FLEX 독일어</CustomFont>
             </CustomColumn>
         </CustomColumn>
 
