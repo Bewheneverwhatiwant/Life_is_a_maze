@@ -20,6 +20,7 @@ const MyAward = () => {
                 <CustomFont $color='white' $font='1rem'>2024 고용노동부 공공데이터 활용공모전 12팀/150팀 1차 합격</CustomFont>
                 <CustomFont $color='white' $font='1rem'>2024 멋쟁이사자처럼 중앙해커톤 교내 3위</CustomFont>
                 <CustomFont $color='white' $font='1rem'>2024 한국외대 GBT 학부 주관 AI 해커톤 대상(총장상)</CustomFont>
+                <CustomFont $color='white' $font='1rem'>2024 HUFSthon 해커톤 최우수상</CustomFont>
             </CustomColumn>
         </CustomColumn>
 
